@@ -1,5 +1,13 @@
-<h1 align="center">Hi 👋, I'm Sumit Kumar</h1>
+# Hey, It's nice to meet you...
+<img align='right' src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" width="230">
 <h3 align="center">A passionate Full-Stack web and Android developer from India</h3>
+
+```bash
+┌──()-[~]
+└─$ echo "Hello, World!" && whoami
+Hello, World!
+Hi 👋, I'm Sumit Kumar
+``` 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitkumar-17&label=Profile%20views&color=0e75b6&style=flat" alt="sumitkumar-17" /> </p>
 
