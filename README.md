@@ -6,7 +6,7 @@
 ┌──()-[~]
 └─$ echo "Hello, World!" && whoami
 Hello, World!
-Hi 👋, I'm Sumit Kumar
+Sumit Kumar
 ``` 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitkumar-17&label=Profile%20views&color=0e75b6&style=flat" alt="sumitkumar-17" /> </p>
