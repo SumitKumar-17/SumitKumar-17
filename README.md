@@ -9,7 +9,6 @@ Hello, World!
 Sumit Kumar
 ``` 
 
-- 🔭 I’m currently working on **linktree Project**
 
 - 🌱 I’m currently learning **new Frameworks,Backend**
 
