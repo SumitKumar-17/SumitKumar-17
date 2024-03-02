@@ -9,8 +9,6 @@ Hello, World!
 Sumit Kumar
 ``` 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitkumar-17&label=Profile%20views&color=0e75b6&style=flat" alt="sumitkumar-17" /> </p>
-
 - 🔭 I’m currently working on **linktree Project**
 
 - 🌱 I’m currently learning **new Frameworks,Backend**
@@ -36,3 +34,6 @@ Sumit Kumar
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumitkumar-17&show_icons=true&locale=en" alt="sumitkumar-17" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitkumar-17&" alt="sumitkumar-17" /></p>
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=sumitkumar-17&label=Profile%20views&color=0e75b6&style=flat" alt="sumitkumar-17" /> </p>
+
