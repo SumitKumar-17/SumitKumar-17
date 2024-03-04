@@ -7,7 +7,6 @@
 Hello, World!
 Sumit Kumar
 ``` 
-<h3 align="center">A passionate Full-Stack web and Android developer from India</h3>
 
 - 🌱 I’m currently learning **new Frameworks,Backend**
 
