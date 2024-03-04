@@ -1,6 +1,5 @@
 # Hey, It's nice to meet you...
-<img align='right' src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" width="230">
-<h3 align="center">A passionate Full-Stack web and Android developer from India</h3>
+
 
 ```bash
 ┌──()-[~]
@@ -8,7 +7,7 @@
 Hello, World!
 Sumit Kumar
 ``` 
-
+<h3 align="center">A passionate Full-Stack web and Android developer from India</h3>
 
 - 🌱 I’m currently learning **new Frameworks,Backend**
 
@@ -16,7 +15,7 @@ Sumit Kumar
 
 - 📫 How to reach me **sumitkanpur2005@gmail.com**
 
-- ⚡ Fun fact **I am lazy**
+- ⚡ Fun fact **I am too lazy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
