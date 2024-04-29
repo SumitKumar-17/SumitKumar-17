@@ -8,9 +8,9 @@ Hello, World!
 Sumit Kumar
 ``` 
 
-- 🌱 I’m currently learning **new Frameworks,Backend**
+- 🌱 I’m currently learning **new Frameworks**
 
-- 💬 Ask me about **web and android development**
+- 💬 Ask me about **Web and Android development**
 
 - 📫 How to reach me **sumitkanpur2005@gmail.com**
 
