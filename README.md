@@ -3,7 +3,7 @@
 
 ```
 ┌──()-[~]
-└─$ echo "Hello, World" && whoami
+└─$ ```bash echo "Hello, World" && whoami ```
 Hello, World
 Sumit Kumar
 ``` 
