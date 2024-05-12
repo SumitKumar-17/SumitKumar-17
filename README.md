@@ -1,7 +1,7 @@
 # Hey, It's nice to meet you...
 
 
-```bash
+```
 ┌──()-[~]
 └─$ echo "Hello, World" && whoami
 Hello, World
