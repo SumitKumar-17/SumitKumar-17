@@ -8,13 +8,13 @@ Hello, World
 Sumit Kumar
 ``` 
 
-- 🌱 I’m currently learning **new Frameworks**
+<!--- 🌱 I’m currently learning **new Frameworks**
 
-- 💬 Ask me about **Web and Android development**
+- 💬 Ask me about **Web and Android development**-->
 
 - 📫 How to reach me **sumitkanpur2005@gmail.com**
 
-- ⚡ Fun fact **I am too lazy**
+<!--- ⚡ Fun fact **I am too lazy**-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
