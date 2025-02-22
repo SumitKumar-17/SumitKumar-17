@@ -21,9 +21,9 @@ Sumit Kumar
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumitkumar-17&show_icons=true&locale=en&theme=transparent" alt="sumitkumar-17" /></p>
 
 <!--
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumitKumar-17&exclude_repo=CS39001_Computer_Organization_Laboratory&theme=transparent" alt="sumitkumar-17" /></p>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumitKumar-17&exclude_repo=CS39001_Computer_Organization_Laboratory,CS61061_Data_Analytics&theme=transparent" alt="sumitkumar-17" /></p>
 -->
+
 
 
 <!--![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
