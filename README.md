@@ -23,6 +23,7 @@ Sumit Kumar
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumitkumar-17&show_icons=true&locale=en&theme=transparent" alt="sumitkumar-17" /></p>
 
+<img src="https://komarev.com/ghpvc/?username=SumitKumar-17"/>
 <!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumitKumar-17&exclude_repo=CS39001_Computer_Organization_Laboratory,CS61061_Data_Analytics&theme=transparent" alt="sumitkumar-17" /></p>
 -->
