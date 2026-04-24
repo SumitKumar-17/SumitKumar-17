@@ -9,7 +9,7 @@ Sumit Kumar
 ``` 
 
 - 📫 How to reach me **sumitkanpur2005@gmail.com**
-* 🌐 **Website:** [sumitk.me](https://sumitk.me) — I write blogs, share my learnings, and post other cool stuff there.
+* 🌐 **Website:** [sumitkumar-snowy.vercel.app](https://sumitkumar-snowy.vercel.app/) — I write blogs, share my learnings, and post other cool stuff there.
 
 
 
